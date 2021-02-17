@@ -8,7 +8,7 @@ public class Application {
 
     /**
      * 启动位置
-     * 9ad675029a802bd0588556337041a403353980b1
+     * d1afe608fcafab64bc10a00a0f6e38a9de7f812b
      * @param args
      */
     public static void main(String[] args) {
